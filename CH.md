@@ -9,4 +9,4 @@
 [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/250px-Flag_of_the_United_Kingdom.svg.png" width="32px"/>  - English (comming soon)](https://github.com/cryptogenom/whitepaper/blob/master/EN.md)
 
 
-#### Synopsys
+#### 资讯
